@@ -3,7 +3,7 @@
 
 - Have any queries?? Contact one of our devs! **alaistairp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Join our official discord server, where you can get help with homework, get to test beta updates for the bot, and interact with the community!:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/XcGjZwx9e2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XcGjZwx9e2" height="30" width="40" /></a>
 </p>
